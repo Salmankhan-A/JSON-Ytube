@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: content-box;
+}
+
+body{
+    background-color: cornsilk;
+}
+
+video{
+    width: 450px;
+    height: 250px;
+    border-radius: 10px;
+}
+
+h3{
+    color: aliceblue;
+}
+
+h4{
+    color: greenyellow;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    width: 100vw;
+    flex-wrap: wrap;
+}
+
+.videoBox{
+    width: 458px;
+    height: 325px;
+    background-color: crimson;
+    padding: 10px;
+}
